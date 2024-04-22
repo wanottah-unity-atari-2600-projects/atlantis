@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Left Torpedo
+  - Centre Torpedo
+  - Right Torpedo
+  - Enemy 1
+  - Enemy 2
+  - Enemy 3
+  - Enemy 4
+  - Base 1
+  - Base 2
+  - Base 3
+  - Base 4
+  - Base 5
+  - Base 6
+  - Left Enemy 1 Laser Beam
+  - Left Enemy 2 Laser Beam
+  - Left Enemy 3 Laser Beam
+  - Left Enemy 4 Laser Beam
+  - Right Enemy 1 Laser Beam
+  - Right Enemy 2 Laser Beam
+  - Right Enemy 3 Laser Beam
+  - Right Enemy 4 Laser Beam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Television Console
+  - Enemy
+  - Enemy Laser
+  - Player Torpedo
+  - Base
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
